@@ -1,0 +1,10 @@
+!!sapphire.app.SapphireObjectSpec
+constructorName: null
+dmList:
+- configs: []
+  name: sapphire.policy.ShiftPolicy
+javaClassName: sapphire.appexamples.light.Light
+lang: java
+name: null
+serverSelectorSpec: null
+sourceFileLocation: null
