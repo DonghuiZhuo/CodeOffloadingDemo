@@ -2,8 +2,8 @@
 constructorName: null
 dmList:
 - configs: []
-  name: sapphire.policy.TimedShiftPolicy
-javaClassName: sapphire.appexamples.light.Light
+  name: sapphire.policy.EventDrivenShiftPolicy
+javaClassName: sapphire.appexamples.light.Counter
 lang: java
 name: null
 serverSelectorSpec: null
