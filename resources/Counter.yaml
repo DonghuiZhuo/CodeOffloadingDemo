@@ -2,7 +2,9 @@
 constructorName: null
 dmList:
 - configs: []
-  name: sapphire.policy.EventDrivenShiftPolicy
+  name: sapphire.policy.TimedShiftPolicy
+#  name: sapphire.policy.EventDrivenShiftPolicy
+#  name: sapphire.policy.scalability.LoadBalancedMasterSlaveSyncPolicy
 javaClassName: sapphire.appexamples.light.Counter
 lang: java
 name: null
